@@ -7,5 +7,5 @@ else:
     converted = weight / 0.45
     print(f"your are {converted} pounds")
     
-   # © Ashfaaq Rifath 2021
+# Copyright (c) 2021 Ashfaaq Rifath
      
